@@ -20,21 +20,21 @@
 - Tools: `Git`, `VS Code`, `Postman`, `Figma`
 
 ---
-
+<!--
 ### 📂 Featured Projects
 
 <!-- Add links to your top repositories or pin them on GitHub -->
-- 🔗 [Project Name 1](https://github.com/yourusername/project1) - short one-liner about the project
+<!--- 🔗 [Project Name 1](https://github.com/yourusername/project1) - short one-liner about the project
 - 🔗 [Project Name 2](https://github.com/yourusername/project2) - what it does or solves
-- 🔗 [More Projects →](https://github.com/yourusername?tab=repositories)
+- 🔗 [More Projects →](https://github.com/yourusername?tab=repositories) -->
 
----
+
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShanilPraveen&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanilPraveen&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -42,8 +42,8 @@
 ### 🌐 Let's Connect!
 
 <p>
-  <a href="https://linkedin.com/in/your-profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shanil-praveen?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BARBgsNTITlezAlx6jWdWwg%3D%3D"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="shanilpraveen2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
   <!-- Add more badges for other platforms like Twitter, Dev.to, etc. -->
 </p>
 
