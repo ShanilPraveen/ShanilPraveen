@@ -15,7 +15,7 @@
 
 <!-- Add or remove skills as you grow -->
 - Languages: `Python`, `Java`, `TypeScript`, `SQL`, `C`
-- Web: `React`, `Node.js`, `Express`, `HTML/CSS`
+- Web: `React`, `Next.js`,` Node.js`, `Express`, `HTML/CSS`
 - Databases: `MySQL`, `MongoDB`
 - Tools: `Git`, `VS Code`, `Postman`, `Figma`
 
@@ -27,7 +27,6 @@
 <!--- 🔗 [Project Name 1](https://github.com/yourusername/project1) - short one-liner about the project
 - 🔗 [Project Name 2](https://github.com/yourusername/project2) - what it does or solves
 - 🔗 [More Projects →](https://github.com/yourusername?tab=repositories) -->
-
 
 
 ### 📊 GitHub Stats
@@ -43,7 +42,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/shanil-praveen?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BARBgsNTITlezAlx6jWdWwg%3D%3D"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="shanilpraveen2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:shanilpraveen2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
   <!-- Add more badges for other platforms like Twitter, Dev.to, etc. -->
 </p>
 
