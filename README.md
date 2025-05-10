@@ -7,7 +7,7 @@
 - 🎓 I'm currently studying **Computer Science and Data Science**.
 - 💻 I love building things with code and solving real-world problems.
 - 🌱 Currently exploring: `Full-stack Development`, `AI/ML`, `Cloud`, and `Databases`.
-- 📫 How to reach me: [shanilpraveen2000@gmail.com](mailto:shanilpraveen2000@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shanil-praveen)
+- 📫 How to reach me: <p> <a href="mailto:shanilpraveen2000@gmail.com"> <img src="https://img.shields.io/badge/Email-shanilpraveen2000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/shanil-praveen"> <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
 ---
 
