@@ -33,10 +33,17 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white" />
 </p>
 
+🧠 AI & LLMs
+<p> 
+  <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SentenceTransformers-005BBB?logo=python&logoColor=white" /> 
+</p>
+
 #### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4A4A?logo=qdrant&logoColor=white" />
 </p>
 
 #### 🔧 Tools & DevOps
