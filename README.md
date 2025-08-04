@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
 </p>
 
@@ -71,13 +71,79 @@
 - 🔗 [Project Name 2](https://github.com/yourusername/project2) - what it does or solves
 - 🔗 [More Projects →](https://github.com/yourusername?tab=repositories) -->
 
+<!--
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShanilPraveen&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanilPraveen&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+-->
+
+---
+
+<!--
+<div align="center">
+
+## 🛠️ **Tech Stack & Arsenal**
+
+### 💻 **Languages**
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,c,cpp,sql&theme=dark&perline=7" />
+
+### 🎨 **Frontend Development**
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,figma&theme=dark&perline=7" />
+
+### ⚙️ **Backend Development**
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,nginx&theme=dark&perline=5" />
+
+### 🗄️ **Databases & Cloud**
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgresql,aws,docker,kubernetes&theme=dark&perline=7" />
+
+### 🤖 **AI/ML & Data Science**
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4444?style=for-the-badge&logo=qdrant&logoColor=white" />
+</p>
+
+### 🔧 **Tools & DevOps**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,bash,vim&theme=dark&perline=7" />
+
+</div> -->
+
+## 📊 **GitHub Analytics Dashboard**
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShanilPraveen&custom_title=Shanil's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=00D9FF&point=7c3aed&area=true&hide_border=true"/>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ShanilPraveen&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&border_color=5B2C6F&show_icons=true&icon_color=00D9FF&title_color=7c3aed&text_color=FFF"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShanilPraveen&theme=tokyonight&background=0D1117&hide_border=true&border=5B2C6F&stroke=7c3aed&ring=00D9FF&fire=00D9FF&currStreakLabel=7c3aed"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanilPraveen&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&border_color=5B2C6F&title_color=7c3aed&text_color=FFF&icon_color=00D9FF&langs_count=8"/>
+
+</div>
+
+---
+
+<!-- GitHub Trophies -->
+<div align="center">
+
+## 🏆 **Achievement Showcase**
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShanilPraveen&theme=discord&no-bg=true&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"/>
+
+</div>
 
 ---
 
@@ -93,6 +159,12 @@
 </p>
 
 ---
+<!-- Daily Quote -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
+
+</div>
 
 <!-- You can add sections like Blogs, Certificates, Achievements, etc. later -->
 
