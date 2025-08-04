@@ -1,7 +1,16 @@
-<h1 align="center">Hi there 👋, I'm Shanil Praveen</h1>
+<div align="center">
+
+<!-- Animated Header with Gradient Text -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shanil%20Praveen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Explorer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Problem%20Solver&descSize=16&descAlignY=51"/>
+
+<!-- Profile Stats Badges -->
 <p align="center">
-  <em>CS & Data Science student | Passionate about tech, coding, and learning</em>
+  <img src="https://komarev.com/ghpvc/?username=ShanilPraveen&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
+<!--   <img src="https://img.shields.io/github/followers/ShanilPraveen?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/ShanilPraveen?label=Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub stars" /> -->
 </p>
+
+</div>
 
 
 - 🎓 I'm currently studying **Computer Science and Data Science**.
