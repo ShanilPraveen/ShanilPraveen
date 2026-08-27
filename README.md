@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
-<!--   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
 </p>
 
@@ -36,32 +35,51 @@
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/single--spa-E056FD?logo=single-spa&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" />
 </p>
 
-🧠 AI & LLMs
+<!--
+#### 🧠 AI & LLMs
 <p> 
   <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" /> 
   <img src="https://img.shields.io/badge/SentenceTransformers-005BBB?logo=python&logoColor=white" /> 
 </p>
+-->
 
-#### 🗄️ Databases
+#### 🗄️ Databases & ORM
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-FF4A4A?logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
 </p>
 
-#### 🔧 Tools & DevOps
+#### ☁️ Cloud & DevOps
 <p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+</p>
+
+#### 🧪 Testing & Tools
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+</p>
+
+#### 📊 Data & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" />
 </p>
 <!--
 ### 📂 Featured Projects
